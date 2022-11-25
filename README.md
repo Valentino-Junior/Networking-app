@@ -14,13 +14,13 @@ A social media web-application with Django.
 <li>Chats using websockets</li>
 <li>Video Calls</li>
 
-## Demo (Not up-to-date)
+<!-- ## Demo (Not up-to-date)
 
 
 https://user-images.githubusercontent.com/64803043/118666705-02735600-b811-11eb-80f9-445bbe6e55c9.mp4
 
 
-<a href="./demo/demo1.mp4">Video Link</a>
+<a href="./demo/demo1.mp4">Video Link</a> -->
 
 ## Adding env variables
 
